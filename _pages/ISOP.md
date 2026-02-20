@@ -16,7 +16,8 @@ Check them out below by clicking on the photos!
 ---
 ***ISOP member spotlight Lilach Sheiner***
 
-[<img width="600" alt="Screenshot 2026-02-19 at 9 28 10 PM" src="https://github.com/user-attachments/assets/0c3c3461-e741-47a2-b621-635983d12447" />](http://www.youtube.com/watch?v=mEiWl2NHQVzjH6A0)
+[<img width="600" alt="Screenshot 2026-02-19 at 9 28 10 PM" src="https://github.com/user-attachments/assets/0c3c3461-e741-47a2-b621-635983d12447" />](https://www.youtube.com/watch?v=pkqBbtAhhuM&t=3s))
+
 
 ---
 ***ISOP member spotlight Julius Lukes***
