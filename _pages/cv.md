@@ -31,7 +31,39 @@ Research experience
 * **Research Assistant** (January 2018 - May 2019)
   * University of Miami
   * Supervisor: Dr. Nikki Traylor-Knowles
-  
+
+Fellowships & Grants
+======
+* **FELLOWSHIP**: Canada Postdoctoral Research Award - ***$140,000 CAD***	(February 2026 – present)
+  * Natural Sciences and Engineering Research Council of Canada (NSERC)
+
+* **GRANT**: ISOP-Funded Symposium - ***$6,000 USD***		(January 2026)
+  * International Society of Protistologists
+
+* **AWARD**: Holz-Connor Travel Award - ***$1,500 USD***		(May 2023 & 2025)
+  * International Society of Protistologists
+
+* **AWARD**: Jahn-Bovee Award for Best Student Oral Presentation, 2nd Prize - ***$300 USD***	(August 2024)
+  * International Society of Protistologists
+
+* **AWARD**: Outstanding Commitment to Diversity, Inclusion, and Belonging	(April 2024)
+  * University of Miami, Rosenstiel School of Marine, Atmospheric, and Earth Science
+
+* **AWARD**: Outstanding Graduate Student Leader		(April 2022)
+  * University of Miami, Rosenstiel School of Marine, Atmospheric, and Earth Science
+
+* **FELLOWSHIP**: Travelling Fellowship - ***$5,000 USD***		(January 2022)
+  * The Company of Biologists
+
+* **FELLOWSHIP**: Center for Computational Science Fellows Programs	(November 2019 – May 2020)
+  * University of Miami, Center for Computational Science
+
+* **GRANT**: Small Undergraduate Research Grant Experience Award - ***$1,500 USD***	(Spring 2019)
+  * University of Miami, Rosenstiel School of Marine, Atmospheric, and Earth Science
+
+* **FELLOWSHIP**: Ernest F. Hollings Scholarship Program - ***$10,000 USD***	(July 2017 – May 2019)
+  * National Oceanic and Atmospheric Administration
+
 Publications
 ======
 1.	Weiler, B. A., Kron, N., **Bonacolta, A. M.**, Vermeij, M. A., Baker, A. C., del Campo, J. (2026) Temporal transcriptional rhythms govern coral-symbiont function and microbiome dynamics. Cell Host & Microbe. https://doi.org/10.1016/j.chom.2026.01.004
