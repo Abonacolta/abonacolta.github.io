@@ -172,6 +172,6 @@ Service and leadership
 * Journals: Nature Microbiology, Global Change Biology, Environmental Microbiology, Coral Reefs, Protist, Harmful Algae, Science Advances, Journal of Eukaryotic Microbiology, PlosOne, PeerJ & Discover Oceans
 
 ### Misc.
-* Organized ISOP-funded Symposium – “The Symbiotic Continuum across the Tree of Life”	April 2026
+* Organized ISOP-funded Symposium – [“The Symbiotic Continuum across the Tree of Life”](https://registration.cas.cz/PROTIST2026/web.php?co=speakers#:~:text=The%20Symbiotic%20Continuum%20across%20the%20Tree%20of%20Life)	(April 2026)
   * Protistology Open, Prague, Czech Republic
   * Acquired funding ($6,000 USD), invited speakers, and co-hosted the symposium
