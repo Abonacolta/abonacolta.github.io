@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 redirect_from: 
   - /ISOP/
-  - /ISOP.html
+  - /ISOP.md
 ---
 
 As part of the ISOP communications committee, I have the opportunity to interview leaders in the field of protistology to discuss all things protists and how to get the general public more interested in our field!
