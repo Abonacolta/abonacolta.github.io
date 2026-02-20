@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-As part of the ISOP communications committee, I have the opportunity to interview leaders in the field of protistology to discuss all things protists and how to get the general public more interested in our field!
+As part of the ISOP Communications Committee, I have the opportunity to interview leaders in the field of protistology to discuss all things protists and how to get the general public more interested in our field!
 
-Check them out below by clicking on the photos!
+Watch them ISOP's YouTube Channel by clicking on the photos!
 
 ---
 ***ISOP member spotlight Lilach Sheiner***
