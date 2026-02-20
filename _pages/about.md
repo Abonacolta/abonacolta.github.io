@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
+
 I am a marine microbial ecologist whose research integrates microbial ecology, plastid evolution, and genomics to understand the diversity, function, and evolution of protistan symbioses in marine systems. My work combines field-sampling and ecology with molecular and computational approaches to address fundamental questions about the ecology and evolution of host-microbe interactions.
 
 # Research Themes
