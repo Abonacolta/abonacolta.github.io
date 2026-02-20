@@ -150,6 +150,7 @@ Teaching
   * Tropical Marine Ecology, graduate level, The Coral Eukaryome	(Fall 2023)
   * Institut de Biologia Evolutiva high-school Visit, high-school level, Marine Microbial Ecology	(Spring 2022)
 
+
 Service and leadership
 ======
 ### Scientific Society Memberships
