@@ -12,11 +12,17 @@ redirect_from:
 I am a marine microbial ecologist whose research integrates microbial ecology, plastid evolution, and genomics to understand the diversity, function, and evolution of protistan symbioses in marine systems. My work combines field-sampling and ecology with molecular and computational approaches to address fundamental questions about the ecology and evolution of host-microbe interactions.
 
 # Research Themes
-- Microbiomes and their contribution to host resiliency
-- Host-microbe interactions
+- Microbiomes and their contribution to host fitness
+- Host-microbe interactions 
 - Marine apicomplexan ecology and evolution
-- Novel marine protists
-- Ecology of parasitism
+- Shifting marine symbioses under climate change
+
+# Organisms of Interest
+- Apicomplexans (Corallicolids, Ichthyocolids, Apostichocystids, etc.)
+- Dinoflagellates
+- Anthozoans
+- Echinoderms
+- Polychetes
 
 # Recent Research Highlights
 
