@@ -17,12 +17,7 @@ main:
   - title: "ISOP Member Spotlights"
     url: /ISOP/
 
-  - title: "Field Sampling Photos"
-    url: /field/
-
-  - title: "Outreach Photos"
+  - title: "Research and Outreach Photos"
     url: /outreach/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+
 
