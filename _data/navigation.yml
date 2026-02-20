@@ -10,18 +10,18 @@
 main:
   - title: "Publications"
     url: /publications/   
-    
-  - title: "Outreach"
-    url: /outreach/
+
+  - title: "CV"
+    url: /cv/
         
   - title: "ISOP Member Spotlights"
     url: /ISOP/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Field Sampling Photos"
     url: /field/
+
+  - title: "Outreach Photos"
+    url: /outreach/
     
   # - title: "CV"
   #   url: /cv-json/
