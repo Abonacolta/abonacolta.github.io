@@ -17,17 +17,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Outreach"
+    url: /outreach/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "ISOP Member Spotlights"
+    url: /ISOP/
     
   - title: "CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
