@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 As part of the ISOP communications committee, I have the opportunity to interview leaders in the field of protistology to discuss all things protists and how to get the general public more interested in our field!
-Check them out below!
+
+Check them out below by clicking on the photos!
 
 ---
 ***ISOP member spotlight Lilach Sheiner***
