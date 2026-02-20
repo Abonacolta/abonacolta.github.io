@@ -24,12 +24,6 @@ I am a ***marine microbial ecologist*** whose research integrates *microbial eco
 - Marine apicomplexan ecology and evolution
 - Shifting marine symbioses under climate change
 
-## Organisms of Interest
-- Apicomplexans (Corallicolids, Ichthyocolids, Apostichocystids, etc.)
-- Dinoflagellates
-- Anthozoans
-- Echinoderms
-- Polychaetes
 
 # Recent Research Highlights
 
