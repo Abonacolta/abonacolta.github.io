@@ -19,8 +19,8 @@ I am a ***marine microbial ecologist*** whose research integrates *microbial eco
 * [Differential apicomplexan presence predicts thermal stress mortality in the Mediterranean coral Paramuricea clavata](https://enviromicro-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16548) - ***Environmental Microbiology***
 
 ## Research Themes
-- Microbiomes and their contribution to host fitness 💪
-- Host-microbe interactions 🦠🪸🐠
+- Microbiomes and their contribution to marine host fitness 💪
+- Host-microbe interactions across diverse marine holobionts 🦠🪸🐠
 - Marine apicomplexan ecology and evolution 🧬🔬
 - Shifting marine symbioses under climate change ☀️
 
