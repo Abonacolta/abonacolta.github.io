@@ -11,7 +11,7 @@ redirect_from:
 
 As part of the ISOP Communications Committee, I have the opportunity to interview leaders in the field of protistology to discuss all things protists and how to get the general public more interested in our field!
 
-Watch them ISOP's YouTube Channel by clicking on the photos!
+Watch them on ISOP's YouTube Channel by clicking on the photos!
 
 ---
 ***ISOP member spotlight Lilach Sheiner***
