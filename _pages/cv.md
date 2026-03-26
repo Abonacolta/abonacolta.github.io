@@ -66,7 +66,7 @@ Fellowships & Grants
 
 Publications
 ======
--	Hurdeal, V. G., Cooney, E. C., Lax, G., **Bonacolta, A. M.**, Keeling, P. J., Fast, N. M. (2025) Single-cell transcriptomics reveals a new marine parasite: characterization and distribution of Rozellomyces from the Gulf of Alaska. Mycologia. [https://www.tandfonline.com/doi/abs/10.1080/00275514.2026.2631200](https://www.tandfonline.com/doi/abs/10.1080/00275514.2026.2631200)
+-	Hurdeal, V. G., Cooney, E. C., Lax, G., **Bonacolta, A. M.**, Keeling, P. J., Fast, N. M. (2026) Single-cell transcriptomics reveals a new marine parasite: characterization and distribution of Rozellomyces from the Gulf of Alaska. Mycologia. [https://www.tandfonline.com/doi/abs/10.1080/00275514.2026.2631200](https://www.tandfonline.com/doi/abs/10.1080/00275514.2026.2631200)
   
 -	Weiler, B. A., Kron, N., **Bonacolta, A. M.**, Vermeij, M. A., Baker, A. C., del Campo, J. (2026) Temporal transcriptional rhythms govern coral-symbiont function and microbiome dynamics. Cell Host & Microbe. [https://doi.org/10.1016/j.chom.2026.01.004](https://doi.org/10.1016/j.chom.2026.01.004)
 
