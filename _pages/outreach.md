@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+* ***Co-hosted and organized a symposium on protistan symbioses across the tree of life for Protistology Open in Prague, Czechia (2026)***
+
+  <img height="500" alt="IMG_7180" src="https://github.com/user-attachments/assets/f34bf86e-a300-4dad-8ab8-42b17bccbb21" />
+
+  <img height="750" alt="IMG_7181" src="https://github.com/user-attachments/assets/49d0431c-94fd-47eb-8380-7f622d59b08b" />
+
+  
+----
+* ***Congrats Kay Li on passing her undergraduate honors defense at UBC! Couldn't have asked for a better mentee.***
+
+  <img width="553" height="328" alt="Screenshot 2026-04-25 at 5 22 07 AM" src="https://github.com/user-attachments/assets/b5f912a5-eb16-4623-8ece-449da8a61037" />
+  
+----
 * ***Presented my latest research on marine apicomplexans at SICB in Portland (2026)***
 
   <img height="500" alt="Screenshot 2026-02-19 at 11 28 57 PM" src="https://github.com/user-attachments/assets/34457b6b-7c8e-49db-9ccd-5c5225b0be97" />
