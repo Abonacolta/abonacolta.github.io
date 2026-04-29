@@ -11,10 +11,9 @@ redirect_from:
 
 * ***Co-hosted and organized a symposium on protistan symbioses across the tree of life for Protistology Open in Prague, Czechia (2026)***
 
-  <img height="500" alt="IMG_7180" src="https://github.com/user-attachments/assets/f34bf86e-a300-4dad-8ab8-42b17bccbb21" />
-
+  <img height="500" alt="PO_1_117" src="https://github.com/user-attachments/assets/e798ae15-141a-4696-96aa-c3c43951ae44" />
   <img height="750" alt="IMG_7181" src="https://github.com/user-attachments/assets/49d0431c-94fd-47eb-8380-7f622d59b08b" />
-
+  <img height="500" alt="conference_photo_logo" src="https://github.com/user-attachments/assets/a75397f0-d88b-4a4b-be65-8704cf345f21" />
   
 ----
 * ***Congrats Kay Li on passing her undergraduate honors defense at UBC! Couldn't have asked for a better mentee.***
