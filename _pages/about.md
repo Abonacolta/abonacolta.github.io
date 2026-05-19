@@ -28,7 +28,7 @@ I am a ***marine microbial ecologist*** whose research integrates *microbial eco
 # Recent Research Highlights
 * ***[New Discovery Report article just published in PLOS Biology](https://doi.org/10.1371/journal.pbio.3003764)! Here we provide evidence that symbiotic bacteria within fish guts play an important and overlooked role in the marine carbon cyle!***
 
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/c9f9d960-2449-48ff-9820-680e334475db" />
+  <img height="500" alt="image" src="https://github.com/user-attachments/assets/c9f9d960-2449-48ff-9820-680e334475db" />
 
 
 * ***Had a great time writing [this review on marine apicomplexans](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icag006/8471538) published in SICB's Integrative and Comparative Biology!***
