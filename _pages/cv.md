@@ -66,7 +66,7 @@ Fellowships & Grants
 
 Publications
 ======
--	**Bonacolta, A. M.**, Kravitz, T.*, Mozo, R., Baker, L. J., Heuer, R. M., Grosell, M., del Campo, J. Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3003764](https://doi.org/10.1371/journal.pbio.3003764) 
+-	**Bonacolta, A. M.**, Kravitz, T., Mozo, R., Baker, L. J., Heuer, R. M., Grosell, M., del Campo, J. Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3003764](https://doi.org/10.1371/journal.pbio.3003764) 
 
 -	Hurdeal, V. G., Cooney, E. C., Lax, G., **Bonacolta, A. M.**, Keeling, P. J., Fast, N. M. (2026) Single-cell transcriptomics reveals a new marine parasite: characterization and distribution of Rozellomyces from the Gulf of Alaska. Mycologia. [https://doi.org/10.1080/00275514.2026.2631200](https://doi.org/10.1080/00275514.2026.2631200)
   
