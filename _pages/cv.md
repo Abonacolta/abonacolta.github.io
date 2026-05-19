@@ -66,6 +66,8 @@ Fellowships & Grants
 
 Publications
 ======
+-	**Bonacolta, A. M.**, Kravitz, T.*, Mozo, R., Baker, L. J., Heuer, R. M., Grosell, M., del Campo, J. Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3003764](https://doi.org/10.1371/journal.pbio.3003764) 
+
 -	Hurdeal, V. G., Cooney, E. C., Lax, G., **Bonacolta, A. M.**, Keeling, P. J., Fast, N. M. (2026) Single-cell transcriptomics reveals a new marine parasite: characterization and distribution of Rozellomyces from the Gulf of Alaska. Mycologia. [https://doi.org/10.1080/00275514.2026.2631200](https://doi.org/10.1080/00275514.2026.2631200)
   
 -	Weiler, B. A., Kron, N., **Bonacolta, A. M.**, Vermeij, M. A., Baker, A. C., del Campo, J. (2026) Temporal transcriptional rhythms govern coral-symbiont function and microbiome dynamics. Cell Host & Microbe. [https://doi.org/10.1016/j.chom.2026.01.004](https://doi.org/10.1016/j.chom.2026.01.004)
@@ -81,8 +83,6 @@ Publications
 -	Kulikov, N., Joffroy, K., **Bonacolta, A. M.**, del Campo, J., Irisarri, I. (2026) The chromosome-scale genome assembly of the redlip blenny, Ophioblennius macclurei (Blenniidae). Genome Biology and Evolution, 18(1), evaf242. [https://doi.org/10.1093/gbe/evaf242](https://doi.org/10.1093/gbe/evaf242)
 
 -	Grimes, C. J., **Bonacolta, A. M.**, Halanych, K. M. (2025). Microbial community composition and functional potential in Annelida from abyssal and hadal zones of the Aleutian trench. Progress in Oceanography, 241, 103643. [https://doi.org/10.1016/j.pocean.2025.103643](https://doi.org/10.1016/j.pocean.2025.103643) 
-
--	**Bonacolta, A. M.**, Kravitz, T.*, Mozo, R., Baker, L. J., Heuer, R. M., Grosell, M., del Campo, J. Symbiotic bacteria support calcium carbonate precipitation in the Gulf toadfish (Opsanus beta). Submitted. Pre-print link: [https://doi.org/10.1101/2025.10.07.681008](https://doi.org/10.1101/2025.10.07.681008)
 
 -	**Bonacolta, A. M.**, Krause-Massaguer, J., Unuma, T., del Campo, J. (2025). The sea cucumber-infecting parasite Apostichocystis gudetama gen. nov. sp. nov. expands marine-host-specific clade of apicomplexans. Journal of Eukaryotic Microbiology, 72(3), e70013. [https://doi.org/10.1111/jeu.70013](https://doi.org/10.1111/jeu.70013)
 
