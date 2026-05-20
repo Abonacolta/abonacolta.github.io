@@ -26,7 +26,7 @@ I am a ***marine microbial ecologist*** whose research integrates *microbial eco
 
 ---
 # Recent Research Highlights
-* ***[New Discovery Report article just published in PLOS Biology](https://doi.org/10.1371/journal.pbio.3003764)! Here we provide evidence that symbiotic bacteria within fish guts play an important and overlooked role in the marine carbon cyle!***
+* ***[New Discovery Report article just published in PLOS Biology](https://doi.org/10.1371/journal.pbio.3003764)! Here we provide evidence that symbiotic bacteria within fish guts play an important and overlooked role in the marine carbon cycle!***
 
   <img height="500" alt="image" src="https://github.com/user-attachments/assets/c9f9d960-2449-48ff-9820-680e334475db" />
 
