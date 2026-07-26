@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+* ***Presented my research on coral-infecting apicomplexans (corallicolids) at the International Coral Reef Symposium in Auckland, New Zealand (2026)***
+
+  <img height="500" alt="IMG_5146" src="https://github.com/user-attachments/assets/c574bc1d-56f6-4653-8574-64e417a0bd6a" />
+
+----
+
 * ***Co-hosted and organized a symposium on protistan symbioses across the tree of life for Protistology Open in Prague, Czechia (2026)***
 
   <img height="500" alt="PO_1_117" src="https://github.com/user-attachments/assets/e798ae15-141a-4696-96aa-c3c43951ae44" />
