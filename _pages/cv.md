@@ -66,6 +66,9 @@ Fellowships & Grants
 
 Publications
 ======
+- Znamenacek, H. G., Wilson, E. R., **Bonacolta, A. M.**, & Brendtro, K. S. (2026). Experimental Thermal Stress Increases Corallicolid Relative Abundance in the Stony Coral Pocillopora damicornis. Submitted. [Pre-print link]( https://doi.org/10.64898/2026.08.17.745262)
+
+
 -	Leboine, C., del Rio-Hortega, L., Henry, N., Zallio, M., **Bonacolta, A. M.**, Belser, C., Aury, J.-M., Voolstra, C. R., Hume, B. C. C., Moussy, A., Moulin, C., Boissin, E., Bourdin, G., Iwankow, G., Poulain, J., Romac, S., del Campo, J., Allemand, D., Planes, S., Ziegler, M., Wincker, P., Carradec, Q., & Porcel, B. M. (2026). Hidden Apicomplexan Parasite Diversity Links Coral and Plankton Microbiomes Across Reef Seascapes. Submitted. [Pre-print link](https://doi.org/10.64898/2026.05.20.726672) 
 
 -	**Bonacolta, A. M.**, Kravitz, T., Mozo, R., Baker, L. J., Heuer, R. M., Grosell, M., del Campo, J. (2026) Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish. PLOS Biology. [https://doi.org/10.1371/journal.pbio.3003764](https://doi.org/10.1371/journal.pbio.3003764) 
