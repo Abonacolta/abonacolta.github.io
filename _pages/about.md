@@ -9,7 +9,7 @@ redirect_from:
 ![bafkreicw5obxascv6guqanjfhqpbbc45mvlryj5cb37dgao7drlnjxggqm](https://github.com/user-attachments/assets/607c9d84-3c70-4f3a-8eef-0efc1999de73)
 
 # About Me
-I am a ***marine microbial ecologist*** whose research integrates *microbial ecology*, *plastid evolution*, and *genomics* to understand the diversity, function, and evolution of protistan symbioses in marine systems. My work combines field-sampling and ecology with molecular and computational approaches to address fundamental questions about the ecology and evolution of host-microbe interactions.
+I am a ***marine microbial ecologist*** focused on microbial diversity, microbiome-driven regulation of host health and disease, and the evolutionary and biological significance of marine protists. My work combines field-sampling and ecology with molecular and computational approaches to address fundamental questions about the ecology and evolution of host-microbe interactions.
 
 ## Significant Publications
 * [Single-cell ecology of coral-algal symbiosis breakdown](https://link.springer.com/article/10.1186/s40168-026-02506-6) - ***Microbiome***
