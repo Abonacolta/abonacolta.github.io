@@ -66,6 +66,8 @@ Fellowships & Grants
 
 Publications
 ======
+- **Bonacolta, A. M.**, Nicholson, M. D., Hendrick, G. C., Cook, C. A., Smit, N. J., Vermeij, M. J. A., del Campo, J., Sikkel, P. C., Keeling, P. J. (2026). Taxonomy of Blood-Infecting Apicomplexans of Teleost Fish and Gnathiid Isopods: Ichthyocolida ord. nov. and Ichthyocolidae fam. nov., with Descriptions of *Ichthyocola* gen. nov. (*I. angeladaviesae* sp. nov.) and *Pomacentriphila* gen. nov. (*P. dushii* sp. nov.). *Submitted. Pre-print available upon request.*
+
 -	**Bonacolta, A. M.**, Snyder, G. A., Karp, R. F., Yeager, E., Wen, A. D. E., Dennison, C. E., Nonell, J., Traylor-Knowles, N., Baker, A. C., del Campo, J. (2026). Single-cell ecology of coral-algal symbiosis breakdown. ***Microbiome***. [https://doi.org/10.1186/s40168-026-02506-6](https://doi.org/10.1186/s40168-026-02506-6)
 
 - Znamenacek, H. G., Wilson, E. R., **Bonacolta, A. M.**, & Brendtro, K. S. (2026). Experimental Thermal Stress Increases Corallicolid Relative Abundance in the Stony Coral Pocillopora damicornis. Submitted. [Pre-print link]( https://doi.org/10.64898/2026.08.17.745262)
