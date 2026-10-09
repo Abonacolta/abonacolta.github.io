@@ -23,6 +23,7 @@ I am a ***marine microbial ecologist*** focused on microbial diversity, microbio
 - Microbiomes and their contribution to marine host fitness 💪
 - Host-microbe interactions across diverse marine holobionts 🦠🪸🐠
 - Marine apicomplexan ecology and evolution 🧬🔬
+- Biomedical potential of marine protists⚕️💊
 - Shifting marine symbioses under climate change ☀️
 
 ---
