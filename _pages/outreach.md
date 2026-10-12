@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* ***Dicussed my research with Julia Van Etten on ASM's Tiny Living Beings Podcast. [Checkout the episode here, or wherever you get your podcasts!](https://asm.org/Podcasts/Tiny-Living-Beings/Protist-Parasites-of-Corals-and-Fish-With-Anthony-Bonacolta)***
+* ***Discussed my research with Julia Van Etten on ASM's Tiny Living Beings Podcast. [Checkout the episode here, or wherever you get your podcasts!](https://asm.org/Podcasts/Tiny-Living-Beings/Protist-Parasites-of-Corals-and-Fish-With-Anthony-Bonacolta)***
 
   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f3273d04-afe3-4706-963e-fe55d6f802b8" />
 
